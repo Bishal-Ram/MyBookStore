@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Mystery",
+        "title": "Unravel the secrets hidden within these gripping tales.",
+        "price": 9.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Romance",
+        "title": "Let love sweep you off your feet with these heartwarming stories.",
+        "price": 7.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Science Fiction",
+        "title": "Embark on epic adventures through time, space, and beyond.",
+        "price": 8.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Self-Help",
+        "title": "Discover the keys to personal growth and self-improvement.",
+        "price": 6.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy",
+        "title": "Escape into enchanting realms filled with magic and wonder.",
+        "price": 10.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Historical Fiction",
+        "title": "Journey through the past with these captivating historical narratives.",
+        "price": 9.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Biography",
+        "title": "Explore the lives of remarkable individuals and their inspiring stories.",
+        "price": 8.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Thriller",
+        "title": "Hold onto the edge of your seat with these pulse-pounding thrillers.",
+        "price": 7.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Travel",
+        "title": "Embark on virtual journeys to far-off lands and exotic locales.",
+        "price": 6.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Science",
+        "title": "Expand your mind with these enlightening scientific explorations.",
+        "price": 8.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Adventure",
+        "title": "Embark on thrilling escapades to distant lands and uncharted territories.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Poetry",
+        "title": "Experience the beauty and power of language through poetic verse.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Drama",
+        "title": "Immerse yourself in the captivating world of theatrical storytelling.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Humor",
+        "title": "Laugh out loud with these hilarious and entertaining comedic works.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Horror",
+        "title": "Face your fears with these spine-chilling tales of horror and suspense.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Children's",
+        "title": "Spark imagination and wonder with these delightful stories for young readers.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Art",
+        "title": "Explore the world of art through these inspiring and informative books.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Cooking",
+        "title": "Satisfy your culinary curiosity with these mouthwatering cookbooks.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Sports",
+        "title": "Celebrate the world of sports with these thrilling and inspiring reads.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Business",
+        "title": "Gain valuable insights and strategies for success in the world of business.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    }
+]
